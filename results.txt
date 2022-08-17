@@ -1,0 +1,34 @@
+Highest scoring words: soare roate orate
+Lowest scoring words: immix kudzu qajaq
+Char by word counts: e a r o t l i s n c u y d h p m g b f k w v z x q j 
+Char by appearance in position 0: s c b t p a f g d m r l w e h v o n i u q k j y z x 
+Char by appearance in position 1: a o r e i l u h n t p w c m y d b s v x g k f q j z 
+Char by appearance in position 2: a i o e u r n l t s d g m p c b v y w f x k z h j q 
+Char by appearance in position 3: e n s l a i r c t o u g d m k p v f h w b z y x j q 
+Char by appearance in position 4: e y t r l h n d k a o p m g s c f w i b x z u v j q 
+Position by char a: 21304
+Position by char b: 02314
+Position by char c: 03214
+Position by char d: 40231
+Position by char e: 43120
+Position by char f: 03421
+Position by char g: 03241
+Position by char h: 14032
+Position by char i: 21304
+Position by char j: 02134
+Position by char k: 43021
+Position by char l: 13420
+Position by char m: 03241
+Position by char n: 32410
+Position by char o: 12340
+Position by char p: 01243
+Position by char q: 01243
+Position by char r: 14230
+Position by char s: 03241
+Position by char t: 40321
+Position by char u: 12304
+Position by char v: 23014
+Position by char w: 01234
+Position by char x: 12430
+Position by char y: 42103
+Position by char z: 32401
